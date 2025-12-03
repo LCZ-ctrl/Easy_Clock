@@ -7,8 +7,12 @@
 ### 程序截图
 <br>
 <p align="center">
-  <img src="Graphics/pic.png" width = "350" alt="简易时钟">
+  <img src="Graphics/pic.png" width = "350" alt="浅色表盘">
   <br>
-  <strong>简易时钟</strong>
+  <strong>浅色表盘</strong>
+  <br><br>
+  <img src="Graphics/picB.png" width = "350" alt="深色表盘">
+  <br>
+  <strong>深色表盘</strong>
 </p>
 <br><br>
