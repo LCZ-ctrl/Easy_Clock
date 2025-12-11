@@ -10,12 +10,12 @@ External library used: Raylib
 ### Screenshots
 <br>
 <p align="center">
-  <img src="Graphics/pic.png" width = "350" alt="light dial">
+  <img src="Graphics/pic.png" width = "350" alt="Light Dial">
   <br>
-  <strong>Light dial</strong>
+  <strong>Light Dial</strong>
   <br><br>
-  <img src="Graphics/picB.png" width = "350" alt="dark dial">
+  <img src="Graphics/picB.png" width = "350" alt="Dark Dial">
   <br>
-  <strong>Dark dial</strong>
+  <strong>Dark Dial</strong>
 </p>
 <br><br>
