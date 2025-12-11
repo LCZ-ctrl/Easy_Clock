@@ -1,6 +1,6 @@
 # Easy Clock
 
-An easy clock program developed in C++ using Visual Studio 2022  
+An Easy clock program developed in C++ using Visual Studio 2022  
 External library used: Raylib
 
 ### Features
