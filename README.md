@@ -1,5 +1,8 @@
 # Easy Clock
 
+[简体中文](README_zh.md) | English
+> 逝者如斯夫，不舍昼夜。
+
 ### Overview
 
 An easy clock program developed in C++ using Visual Studio 2022  
@@ -37,3 +40,4 @@ However, they remain accessible in the v1.0.0 release package
     </td>
   </tr>
 </table>
+<br><br>
