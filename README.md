@@ -1,23 +1,39 @@
 # Easy Clock
 
+### Overview
+
 An easy clock program developed in C++ using Visual Studio 2022  
-External library used: Raylib
+<strong>External library used</strong>: [Raylib](https://www.raylib.com/)
 
 ### Features
 
-- Displays the second, minute, and hour hands
-- Four markers on the dial
-- Supports both light and dark dials
+- <em><strong>Real-time clock synchronization using system time</strong></em>
+- <em><strong>Dark background with white clock face for maximum legibility and contrast</strong></em>
+- <em><strong>Built with OOP principles, providing a clean and modular structure for parameter tuning</strong></em>
 
-### Screenshots
+### Screenshots  
 <br>
 <p align="center">
-  <img src="Graphics/pic.png" width = "350" alt="light dial">
+  <img src="Graphics/clock.png" width="250" alt="clock">
   <br>
-  <em><strong>Light dial</strong></em>
-  <br><br>
-  <img src="Graphics/picB.png" width = "350" alt="dark dial">
-  <br>
-  <em><strong>Dark dial</strong></em>
+  <em><strong>Clock</strong></em>
 </p>
+
+#### Give it a try now👉: [Download](https://github.com/LCZ-ctrl/Easy_Clock/releases)
 <br><br>
+### Attention
+In the latest version, the light and dark dials are not provided separately  
+However, they remain accessible in the v1.0.0 release package
+<br><br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Graphics/pic.png" width="150"><br>
+      <em><strong>Light dial</strong></em>
+    </td>
+    <td align="center">
+      <img src="Graphics/picB.png" width="150"><br>
+      <em><strong>Dark dial</strong></em>
+    </td>
+  </tr>
+</table>
