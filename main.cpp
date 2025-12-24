@@ -11,6 +11,7 @@ int main() {
 	SetWindowIcon(icon);
 	UnloadImage(icon);
 
+	SetExitKey(0);
 	SetTargetFPS(30);
 
 	Clock clock{ 250, {300, 300} }; // initialize the clock
