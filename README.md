@@ -10,9 +10,9 @@ An easy clock program developed in C++ using Visual Studio 2022
 
 ### Features
 
-- <em><strong>Real-time clock synchronization using system time</strong></em>
-- <em><strong>Dark background with white clock face for maximum legibility and contrast</strong></em>
-- <em><strong>Built with OOP principles, providing a clean and modular structure for parameter tuning</strong></em>
+- <strong>Real-time clock synchronization using system time</strong>
+- <strong>Dark background with white clock face for maximum legibility and contrast</strong>
+- <strong>Built with OOP principles, providing a clean and modular structure for parameter tuning</strong>
 
 ### Screenshots  
 <br>
