@@ -1,7 +1,6 @@
 # Easy Clock
 
 [简体中文](README_zh.md) | [Русский](README_ru.md) | English
-> 逝者如斯夫，不舍昼夜。
 
 ### Overview
 
